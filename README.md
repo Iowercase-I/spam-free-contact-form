@@ -1,12 +1,12 @@
 # Spam-free Contact Form with Bitcoin (BSV) and Money Button
 
-<a href="https://spam-free-contact-form.web.app/">-----> View Contact Form Generator / Demo <-----</a><br /><br />
+<a href="https://github.com/Iowercase-I/spam-free-contact-form-generator"><u>View Contact Form Generator</u></a><br /><br />
 <ul>
   <li>Eliminate contact form spam by requiring a Bitcoin (BSV) payment before form will submit.</li>
   <li>Money Button payments are nearly instant and nearly free, but you can also charge as much as you want and collect donations.</li>
-  <li><a href="https://www.moneybutton.com/">Sign-up for Money Button here</a>. Fund wallet with Bitcoin (BSV).</li>
+  <li><a href="https://www.moneybutton.com/"><u>Sign-up for Money Button here</u></a>. Fund wallet with Bitcoin (BSV).</li>
   <li>Money Button is a client-side wallet and only users have access to their funds.</li>
-  <li>Edit Money Button HTML with <a href="https://docs.moneybutton.com/">Money Button Docs</a></li>
+  <li>Edit Money Button HTML with <a href="https://docs.moneybutton.com/"><u>Money Button Docs</u></a></li>
   <li>A valid Bitcoin (BSV) address is all you need to receive funds and place Money Button on your web site. However, if you want to use and test Money Buttons, you will need a Money Button account.</li>
   <li>Funds received at the default Bitcoin (BSV) address will be considered donations.</li>
 </ul>
@@ -15,9 +15,9 @@
 Created with:
 ------------------------------------
 
--<a href="https://www.moneybutton.com/">Money Button</a><br />
--<a href="https://bitcoinsv.io/">Bitcoin SV</a><br />
--<a href="https://foundation.zurb.com/">Zurb Foundation 6</a><br />
+-<a href="https://www.moneybutton.com/"><u>Money Button</u></a><br />
+-<a href="https://bitcoinsv.io/"><u>Bitcoin SV</u></a><br />
+-<a href="https://foundation.zurb.com/"><u>Zurb Foundation 6</u></a><br />
 
 
 MIT License:
