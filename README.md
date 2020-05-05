@@ -1,5 +1,4 @@
 # Spam-free Contact Form with Bitcoin (BSV) and Money Button
-=======================================
 
 <a href="https://spam-free-contact-form.web.app/">-----> View Contact Form Generator / Demo <-----</a><br /><br />
 <ul>
