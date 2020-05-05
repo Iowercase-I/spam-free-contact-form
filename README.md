@@ -1,5 +1,7 @@
 # Spam-free Contact Form with Bitcoin (BSV) and Money Button
 
+![Spam-free Contact Form Demo](img/github_screenshot_demo.png)
+
 <a href="https://github.com/Iowercase-I/spam-free-contact-form-generator">**View Contact Form Generator**</a><br /><br />
 <ul>
   <li>Eliminate contact form spam by requiring a Bitcoin (BSV) payment before form will submit.</li>
