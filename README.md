@@ -1,6 +1,4 @@
-# spam-free-contact-form
-
-Spam-free Contact Form with Bitcoin (BSV) and Money Button
+# Spam-free Contact Form with Bitcoin (BSV) and Money Button
 =======================================
 
 <a href="https://spam-free-contact-form.web.app/">-----> View Contact Form Generator / Demo <-----</a><br /><br />
@@ -9,7 +7,7 @@ Spam-free Contact Form with Bitcoin (BSV) and Money Button
   <li>Money Button payments are nearly instant and nearly free, but you can also charge as much as you want and collect donations.</li>
   <li><a href="https://www.moneybutton.com/">Sign-up for Money Button here</a>. Fund wallet with Bitcoin (BSV).</li>
   <li>Money Button is a client-side wallet and only users have access to their funds.</li>
-  <li>Edit Money Button HTML with <a href="https://docs.moneybutton.com/docs/html.html">Money Button Docs</a></li>
+  <li>Edit Money Button HTML with <a href="https://docs.moneybutton.com/">Money Button Docs</a></li>
   <li>A valid Bitcoin (BSV) address is all you need to receive funds and place Money Button on your web site. However, if you want to use and test Money Buttons, you will need a Money Button account.</li>
   <li>Funds received at the default Bitcoin (BSV) address will be considered donations.</li>
 </ul>
